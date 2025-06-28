@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+    background:url("ba.jpg");
+    backdrop-filter: blur(10px);
+    color:white;
+}
+
+h1,h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.aboutme {
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+a {
+    color:white;
+}
